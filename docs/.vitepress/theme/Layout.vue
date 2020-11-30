@@ -1,7 +1,73 @@
 <!-- .vitepress/theme/Layout.vue -->
 <template>
-  <div class="bg-gray-500 text-white ">
-    <h1>Custom Layout!</h1>
+  <div class="bg-white">
+    <header>
+      <div class="container">
+        <h2>Blog</h2>
+      </div>
+    </header>
+
+    <main v-if="enableHome">
+      <div class="container">
+        <Home />
+      </div>
+    </main>
+    <main v-else>
+      <div class="container">
+        <Page />
+      </div>
+    </main>
+
+    <footer>
+      <div class="container">
+        <h2>Site footer information</h2>
+      </div>
+    </footer>
   </div>
-  <Content/><!-- make sure to include markdown outlet -->
 </template>
+
+<script lang="ts">
+import {
+  computed,
+  ref,
+  reactive } from 'vue'
+import {
+  useRoute,
+  useSiteData,
+  usePageData,
+  useSiteDataByRoute
+} from 'vitepress'
+
+import Home from './components/Home.vue'
+import Page from './components/Page.vue'
+
+
+export default {
+
+  setup() {
+
+    // generic state
+    const route = useRoute()
+
+    // home
+    const enableHome = computed(() => !!route.data.frontmatter.home)
+
+    // expose to template
+    return {
+      enableHome
+    }
+  },
+
+  components: {
+    Home,
+    Page
+  }
+
+}
+
+
+</script>
+
+<style>
+
+</style>

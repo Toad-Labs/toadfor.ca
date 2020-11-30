@@ -2,4 +2,3 @@
 home: true
 ---
 
-# Hello VitePress

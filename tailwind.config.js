@@ -2,9 +2,6 @@ module.exports = {
   purge: {
     enabled: true,
     content: [
-      './docs/**/*.js',
-      './docs/**/*.vue',
-      './docs/**/*.ts',
       './docs/.vitepress/**/*.js',
       './docs/.vitepress/**/*.vue',
       './docs/.vitepress/**/*.ts',
@@ -15,6 +12,9 @@ module.exports = {
   },
   darkMode: false, // or 'media' or 'class'
   theme: {
+    container: {
+      center: true,
+    },
     extend: {},
   },
   variants: {},
