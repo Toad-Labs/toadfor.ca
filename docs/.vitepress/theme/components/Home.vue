@@ -5,6 +5,14 @@
     <div>
       <h2>Articles</h2>
 
+      <ul>
+        <li>
+          <a
+            class=" bg-gray-400 rounded-lg block my-10 p-2"
+            href="/hello-world.html">Hello World</a>
+        </li>
+      </ul>
+
     </div>
 
   </div>
