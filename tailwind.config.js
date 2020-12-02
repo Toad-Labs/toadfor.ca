@@ -2,9 +2,9 @@ module.exports = {
   purge: {
     enabled: process.env.NODE_ENV === 'production',
     content: [
-      './docs/.vitepress/**/*.js',
-      './docs/.vitepress/**/*.vue',
-      './docs/.vitepress/**/*.ts',
+      './blog/.vitepress/**/*.js',
+      './blog/.vitepress/**/*.vue',
+      './blog/.vitepress/**/*.ts',
     ],
     options: {
       safelist: ['html', 'body'],

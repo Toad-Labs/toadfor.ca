@@ -4,9 +4,9 @@
   "description": "Code for Canada Fellowship Team Website",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "blog:dev": "vitepress dev blog",
+    "blog:build": "vitepress build blog",
+    "blog:serve": "vitepress serve blog"
   },
   "author": "",
   "license": "MIT",

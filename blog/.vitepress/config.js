@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Hello Toad',
   description: 'Just playing around.',
+  docsDir: 'blog',
   markdown: {
     // options for markdown-it-anchor
     anchor: { permalink: false },
