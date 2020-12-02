@@ -14,7 +14,7 @@
     </main>
     <main v-else>
       <div class="container">
-        <Page />
+        <Article />
       </div>
     </main>
 
@@ -39,7 +39,7 @@ import {
 } from 'vitepress'
 
 import Home from './components/Home.vue'
-import Page from './components/Page.vue'
+import Article from './components/Article.vue'
 
 
 export default {
@@ -60,7 +60,7 @@ export default {
 
   components: {
     Home,
-    Page
+    Article
   }
 
 }
