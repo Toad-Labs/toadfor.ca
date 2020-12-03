@@ -1,3 +1,5 @@
+const colors = require('tailwindcss/colors')
+
 module.exports = {
   purge: {
     enabled: process.env.NODE_ENV === 'production',
@@ -15,7 +17,15 @@ module.exports = {
     container: {
       center: true,
     },
-    extend: {},
+    extend: {
+      colors: {
+        // The following colours deviate from the tailwind default
+        gray: colors.trueGray,
+        green: colors.teal,
+        blue: colors.lightBlue,
+        purple: colors.fuchsia,
+      },
+    },
   },
   variants: {},
   plugins: [],

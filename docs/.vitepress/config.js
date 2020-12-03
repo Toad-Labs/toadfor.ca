@@ -1,7 +1,10 @@
 module.exports = {
   title: 'Hello Toad',
   description: 'Just playing around.',
-  docsDir: 'blog',
+
+  // Set the base folder for the project
+  docsDir: 'docs',
+
   markdown: {
     // options for markdown-it-anchor
     anchor: { permalink: false },

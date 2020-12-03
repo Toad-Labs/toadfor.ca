@@ -1,28 +1,20 @@
 <!-- .vitepress/theme/Layout.vue -->
 <template>
-  <div class="bg-white">
-    <header>
-      <div class="container">
-        <h2>Blog</h2>
-      </div>
-    </header>
+  <div>
 
-    <main v-if="enableHome">
-      <div class="container">
-        <Home />
-      </div>
-    </main>
-    <main v-else>
-      <div class="container">
-        <Article />
-      </div>
+    <!-- Header Component -->
+    <Header />
+
+    <main>
+      <!-- Display the home if we're at the index page -->
+      <Home v-if="enableHome" />
+
+      <!-- Otherwise display a blog article -->
+      <Article v-else />
     </main>
 
-    <footer>
-      <div class="container">
-        <h2>Site footer information</h2>
-      </div>
-    </footer>
+    <Footer />
+
   </div>
 </template>
 
@@ -38,8 +30,10 @@ import {
   useSiteDataByRoute
 } from 'vitepress'
 
-import Home from './components/Home.vue'
 import Article from './components/Article.vue'
+import Footer from './components/Footer.vue'
+import Header from './components/Header.vue'
+import Home from './components/Home.vue'
 
 
 export default {
@@ -59,15 +53,13 @@ export default {
   },
 
   components: {
+    Article,
+    Footer,
+    Header,
     Home,
-    Article
   }
 
 }
 
 
 </script>
-
-<style>
-
-</style>
