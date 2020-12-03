@@ -16,4 +16,4 @@ First of all, rude!
 
 Secondly, we wanted to show what agile development and working in the open looks like. It means that we build in small chunks, and we show our progress along the way. We’re not going to wait until it’s finished, because truthfully, no technology project is ever finished. If you join us on this journey, hopefully, you’ll find that our blog, and its content, is improving with each iteration!
 
-If you’re interested in the work we’re doing, or you have any feedback, please don’t hesitate to reach out! You can reach Farwa at farwa.farshori@hrsdc-rhdcc.gc.ca , Thomas at thomas.hoy@servicecanada.gc.ca, or Neil at neil.mispelaar@hrsdc-rhdcc.gc.ca. 
+If you’re interested in the work we’re doing, or you have any feedback, please don’t hesitate to reach out! You can reach Farwa at [farwa.farshori@hrsdc-rhdcc.gc.ca](mailto:farwa.farshori@hrsdc-rhdcc.gc.ca) , Thomas at [thomas.hoy@servicecanada.gc.ca](mailto:thomas.hoy@servicecanada.gc.ca), or Neil at [neil.mispelaar@hrsdc-rhdcc.gc.ca](neil.mispelaar@hrsdc-rhdcc.gc.ca). 
