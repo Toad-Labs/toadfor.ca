@@ -51,4 +51,9 @@
     @apply mb-10 text-gray-700 leading-relaxed;
   }
 
+  /* debug */
+  .debug {
+    @apply bg-green-200 sm:bg-red-200 md:bg-blue-400 lg:bg-indigo-300 xl:bg-purple-300 2xl:bg-yellow-300
+  }
+
 }
