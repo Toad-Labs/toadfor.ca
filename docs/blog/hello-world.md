@@ -1,8 +1,8 @@
 ---
-"title": "Hello, World"
+title: "Hello, World"
 ---
 
-# Hello, World
+# {{ $page.frontmatter.title }}
 
 ## Nice to meet you!
 
