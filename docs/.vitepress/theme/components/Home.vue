@@ -5,7 +5,7 @@
     <ul>
       <li>
         <a
-          class=" bg-white rounded-lg block my-10 p-5"
+          class=" bg-gray-300 rounded-lg block my-10 p-5"
           href="/blog/hello-world.html">Hello World</a>
       </li>
     </ul>
