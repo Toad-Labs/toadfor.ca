@@ -16,9 +16,17 @@ module.exports = {
   theme: {
     container: {
       center: true,
+      padding: {
+        'DEFAULT': '1rem',
+        'sm': '2rem',
+        'lg': '4rem',
+        'xl': '5rem',
+        '2xl': '6rem',
+      },
     },
     extend: {
       colors: {
+        'brand-primary' : '#18300B',
         // The following colours deviate from the tailwind default
         gray: colors.trueGray,
         green: colors.teal,

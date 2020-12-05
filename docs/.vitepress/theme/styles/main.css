@@ -12,7 +12,7 @@
 
   /* Headings */
   h1 {
-    @apply mb-10 text-6xl font-semibold text-gray-900 border-b border-green-700;
+    @apply mb-10 text-6xl font-semibold text-brand-primary border-b border-brand-primary;
   }
   h2 {
     @apply mt-12 mb-10 text-4xl font-medium;
