@@ -28,8 +28,8 @@ module.exports = {
       colors: {
         'brand-primary' : '#18300B',
         // The following colours deviate from the tailwind default
-        gray: colors.trueGray,
-        green: colors.teal,
+        gray: colors.warmGray,
+        green: colors.emerald,
         blue: colors.lightBlue,
         purple: colors.fuchsia,
       },

@@ -7,32 +7,29 @@
 
   /* default Body styles */
   body {
-    @apply bg-gray-100 text-xl;
+    @apply bg-white text-xl text-gray-600 antialiased;
   }
 
   /* Headings */
   h1 {
-    @apply mb-10 text-6xl font-semibold text-brand-primary border-b border-brand-primary;
+    @apply pb-16 mb-10 text-5xl text-gray-700 font-semibold border-b border-gray-400;
   }
   h2 {
-    @apply mt-12 mb-10 text-4xl font-medium;
+    @apply mt-12 mb-10 text-3xl text-gray-600 font-semibold;
   }
   h3 {
-    @apply text-3xl;
+    @apply text-2xl text-gray-700;
   }
   h4 {
-    @apply text-2xl;
+    @apply text-xl;
   }
   h5 {
     @apply text-xl font-extrabold;
   }
-  h6 {
-    @apply text-xl;
-  }
 
   /* Anchors */
   a {
-    @apply text-green-800;
+    @apply text-brand-primary font-normal;
   }
 
   a:hover {
@@ -51,7 +48,7 @@
 
   /* Typography */
   p {
-    @apply font-normal mb-10;
+    @apply mb-10 text-gray-700 leading-relaxed;
   }
 
 }
