@@ -6,9 +6,13 @@ title: "Hello, World"
 
 ## Nice to meet you!
 
+<div class="w-1/2 bg-gray-300 rounded-xl mx-auto">
+  <p>Hello world</p>
+</div>
+
 This is regular text
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu tincidunt augue. Nulla facilisi. Integer venenatis, mi at dignissim rutrum, mi mauris aliquam odio, ac molestie sem mauris non leo. Suspendisse scelerisque velit vitae nunc aliquam tincidunt. Donec sit amet neque cursus felis aliquet pretium quis vel sem. Proin ut neque orci. Integer id erat tempus, finibus quam ut, tincidunt orci. Suspendisse placerat viverra urna id pellentesque.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu tincidunt augue. Nulla facilisi. Integer venenatis, mi at dignissim rutrum, mi mauris aliquam odio, ac molestie sem mauris non leo. Suspendisse scelerisque velit vitae nunc aliquam tincidunt. Donec sit amet neque cursus felis aliquet pretium quis vel sem. Proin ut neque orci. Integer id erat tempus, finibus quam ut, tincidunt orci. Suspendisse placerat viverra urna id pellentesque.
 
 Nullam pellentesque, diam a rhoncus pharetra, justo tortor euismod dolor, vitae laoreet elit sem id diam. Phasellus vitae magna neque. Sed est est, maximus a viverra a, blandit nec dolor. Nunc consectetur orci sed nisl convallis, id ultricies ex suscipit. In mattis mi leo, nec tristique quam hendrerit in. Nunc lobortis eget ante vitae imperdiet. Vestibulum pharetra gravida ligula non interdum. Quisque in porta lectus, rutrum euismod mauris. Nunc cursus elementum felis non venenatis. Quisque id ornare dolor. Fusce ut convallis velit, vitae lobortis nibh.
 
