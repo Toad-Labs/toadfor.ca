@@ -2,8 +2,6 @@
 title: "Hello, World"
 ---
 
-# {{ $page.frontmatter.title }}
-
 ## Nice to meet you!
 
 We are one of the four 2020 Code for Canada fellowship teams. To keep things simple, we’ve decided to call ourselves TOAD for Canada, or Totally On-board to Advance Digital for Canada. The members of TOAD are: Neil Mispelaar (Developer), Thomas Hoy (UX Design) and Farwa Farshori (Product Manager).
