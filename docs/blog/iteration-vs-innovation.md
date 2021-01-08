@@ -1,9 +1,8 @@
+---
+title: Iteration vs Innovation
+---
 
-title
-Iteration vs Innovation
-{{ $page.frontmatter.title }}
-
-##A Pivot
+## A Pivot
 
 You know the expression, God laughs when we make plans? Well, God has certainly been chuckling at Team TOAD.
 
@@ -15,16 +14,18 @@ The approach was challenged by the following idea proposed by Pia Andrews (DG):
 
 >If we only iterate away from pain, how will we design let alone move towards a better future?
 
-- Pia Andrews https://www.digital.govt.nz/blog/labplus-exploring-optimistic-futures/
+Pia Andrews - https://www.digital.govt.nz/blog/labplus-exploring-optimistic-futures/
 
 This question from Pia helped us recognize the tension between iterating and innovating. As agile practitioners, we put a lot of emphasis on the power of iteration - making incremental improvements over time. But Pia's point is that simply improving on an existing service won't result in the kind of structural shift that is required for the true modernization of our benefit delivery programs.
 
-##Innovation... so how do we do that exactly?
+## Innovation... so how do we do that exactly?
 
 At Pia's suggestion, we are engaging in some "speculative design", an approach to design that was new to all of us. We asked ourselves 3 questions: an optimistic question, a pessimistic question, and a bridging question. 
 
 "Optimistically, what would a healthy society look like 50 years from now?"
+
 "Pessimistically, what would an unhealthy society look like 50 years from now?"
+
 "Practically, what will government have to do to foster a healthy society, and guard against the unhealthy society?"
 
 This approach got us thinking outside of the day-to-day operational concerns of ESDC, and got us thinking about the technological infrastructure required to support a healthy society. Themes that emerged from this exercise include: safeguarding digital privacy, simplifying interactions with government, and making those interactions more friendly and humane.
