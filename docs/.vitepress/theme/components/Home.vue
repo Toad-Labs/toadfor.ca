@@ -7,6 +7,13 @@
       <li>
         <a
           class=" bg-gray-300 rounded-lg block my-10 p-5"
+          href="/blog/speculative-design-sprint.html">Speculative Design Sprint</a>
+      </li>
+
+
+      <li>
+        <a
+          class=" bg-gray-300 rounded-lg block my-10 p-5"
           href="/blog/iteration-vs-innovation.html">Iteration vs innovation</a>
       </li>
 
