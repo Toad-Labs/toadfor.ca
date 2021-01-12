@@ -2,8 +2,6 @@
 title: "Speculative Design Sprint"
 ---
 
-# {{ $page.frontmatter.title }}
-
 ## A Call to Action
 
 Team Toad is working on a “future concierge”.  To help us understand what a "future concierge" is, We’re running a “speculative design sprint”.  This sprint will help us understand what a “good” concierge would be in an optimistic future 50 years from now. It will run over the course of 2 weeks - we'll begin with little more than a big challenge and a multidisciplinary team, and we'll end with a user-tested protytpe... ***fRoM tHe FuTuRe***
