@@ -7,6 +7,13 @@
       <li>
         <a
           class=" bg-gray-300 rounded-lg block my-10 p-5"
+          href="/blog/speculative-design-sprint-day-1-mapping/index.html">Speculative Design Sprint Day 1: Mapping</a>
+      </li>
+
+
+      <li>
+        <a
+          class=" bg-gray-300 rounded-lg block my-10 p-5"
           href="/blog/speculative-design-sprint.html">Speculative Design Sprint</a>
       </li>
 
