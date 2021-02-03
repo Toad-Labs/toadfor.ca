@@ -2,8 +2,6 @@
 title: "Get To Know Us!"
 ---
 
-# {{ $page.frontmatter.title }}
-
 We've been introducing ourselves to a lot of folks from around ESDC this week. When we tell people we're a Code for Canada fellowship team, we're often met with a blank stare. So we made a video to introduce ourselves, and our mission, to our stakeholders in ESDC and beyond.
 
 We collaborated on this video with Team Babel, our C4C sister team at ESDC.
