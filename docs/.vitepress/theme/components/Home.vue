@@ -7,6 +7,13 @@
       <li>
         <a
           class=" bg-gray-300 rounded-lg block my-10 p-5"
+          href="/blog/speculative-design-sprint-day-3-deciding/index.html">Speculative Design Sprint Day 3: Speed Critique/Decide</a>
+      </li>
+
+
+      <li>
+        <a
+          class=" bg-gray-300 rounded-lg block my-10 p-5"
           href="/blog/speculative-design-sprint-day-2-sketching/index.html">Speculative Design Sprint Day 2: Sketching</a>
       </li>
 
