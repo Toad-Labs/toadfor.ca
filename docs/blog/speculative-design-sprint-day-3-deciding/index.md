@@ -36,6 +36,6 @@ Armed with the knowledge from our futurists, our internal critique, and our stra
 
 The author of this sketch had imagined an impressive concierge - here is a brief description:
 
- The "Predictive Concierge" acts as an intermediary between the user and various service providers (of which we at Employment and Social Development could be one). It has access to a vast amount of data, provided both from the user and the various service providers. It uses that data to come up with recommendations for the user. It is an omnichannel concierge, meaning that it can be accessed across various mediums and devices. 
+> The "Predictive Concierge" acts as an intermediary between the user and various service providers (of which we at Employment and Social Development could be one). It has access to a vast amount of data, provided both from the user and the various service providers. It uses that data to come up with recommendations for the user. It is an omnichannel concierge, meaning that it can be accessed across various mediums and devices. 
 
 So we had a winner! With that, we wrapped day 3 and prepared ourselves for Day 4: Storyboarding.
