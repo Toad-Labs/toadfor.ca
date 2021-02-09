@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Hello Toad',
-  description: 'Just playing around.',
+  description: 'Team Toad project website',
 
   // Set the base folder for the project
   docsDir: 'docs',
