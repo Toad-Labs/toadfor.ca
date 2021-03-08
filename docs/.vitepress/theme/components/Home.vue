@@ -7,6 +7,13 @@
       <li>
         <a
           class=" bg-gray-300 rounded-lg block my-10 p-5"
+          href="/blog/speculative-design-sprint-day-5-6-prototyping/index.html">Speculative Design Sprint day 5 &amp; 6: Prototyping</a>
+      </li>
+
+
+      <li>
+        <a
+          class=" bg-gray-300 rounded-lg block my-10 p-5"
           href="/blog/speculative-design-sprint-day-4-storyboarding/index.html">Speculative Design Sprint day 4: Storyboarding</a>
       </li>
 
