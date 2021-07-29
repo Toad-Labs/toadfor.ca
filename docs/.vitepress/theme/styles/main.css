@@ -18,7 +18,7 @@
     @apply mt-12 mb-10 text-3xl text-gray-600 font-semibold;
   }
   h3 {
-    @apply text-2xl text-gray-700;
+    @apply mt-6 mb-6 text-2xl text-gray-700;
   }
   h4 {
     @apply text-xl;
@@ -29,7 +29,7 @@
 
   /* Anchors */
   a {
-    @apply text-brand-primary font-normal;
+    @apply text-brand-primary font-normal underline;
   }
 
   a:hover {
@@ -43,8 +43,10 @@
 
   /* Code */
   code {
-    @apply font-mono text-sm inline bg-gray-200 rounded px-1 py-5;
+    @apply font-mono text-sm inline bg-gray-200 rounded px-1 py-1 mb-5;
   }
+
+  pre { @apply mb-5 }
 
   /* Typography */
   p {
@@ -55,5 +57,19 @@
   .debug {
     @apply bg-green-200 sm:bg-red-200 md:bg-blue-400 lg:bg-indigo-300 xl:bg-purple-300 2xl:bg-yellow-300
   }
+
+  /* Ordered List */
+  ol {
+    @apply list-decimal list-inside
+  }
+
+  /* Unordered List */
+  ul {
+    @apply list-disc ml-5
+  }
+
+  ul li { @apply mt-5 }
+
+  code { @apply w-full }
 
 }
