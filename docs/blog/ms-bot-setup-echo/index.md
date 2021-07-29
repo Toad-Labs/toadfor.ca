@@ -144,7 +144,7 @@ If your screen doesn't look like the one above, it's possible something went wro
 
 This is the most basic bot, and not something we could really put into production. 
 
-The next steps are to start building out useful a conversational UI.
+The next steps are to start building out useful a conversational UI, and then deploy it so people can actually use it, all of which will come in future tutorials.
 
 
 ## Further Reading
