@@ -6,7 +6,7 @@
 
        <li>
         <a
-          class=" bg-gray-300 rounded-lg block my-10 p-5"
+          class=" bg-gray-300 rounded-lg block my-10 p-5 sr-only"
           href="/blog/ms-bot-setup-echo/index.html">How to setup a local Microsoft Bot Framework bot</a>
       </li>
 
